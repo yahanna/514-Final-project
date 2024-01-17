@@ -32,4 +32,5 @@ This innovative system integrates pressure sensors and capacitive keys to simula
 #### Diagrams
 - **Communication Flow Chart**: Illustrates the data flow from sensors to the control unit and then to the display.
 - **System Integration Diagram**: Shows connections between the sensor device, control unit, and display module.
-![Sensor Device]([https://example.com/sensor_device_image.jpg](https://drive.google.com/file/d/1_74_HpEkwKqBHj1hXioSZJh9ZVu__G57/view?usp=drive_link)https://drive.google.com/file/d/1_74_HpEkwKqBHj1hXioSZJh9ZVu__G57/view?usp=drive_link)
+![Sensor Device]([https://drive.google.com/file/d/1_74_HpEkwKqBHj1hXioSZJh9ZVu__G57/view?usp=drive_link]）
+
